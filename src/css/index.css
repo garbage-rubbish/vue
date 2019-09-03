@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+}
+.background{
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    background-image: url(../images/download.jpg);
+    background-repeat: no-repeat ;
+    background-position: center center;
+    /* background: url(../images/download.jpg) */
+}
